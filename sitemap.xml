@@ -1,214 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/hrblockknowledgefrequent</loc>
-        <changefreq>weekly</changefreq>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/quickenpursuitknowledge</loc>
+        <changefreq>daily</changefreq>
         <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/hrblockknowledgefrequent/general</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/reinstalling-and-patching-quicken-resolve-update-and-installation-issues</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/h-r-block-2025-software-activation-download-install-and-get-started</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/quicken-business-and-personal-download-getting-started-on-your-new-computer</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/h-r-block-desktop-software-download-from-purchase-to-successful-installation</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/install-quicken-desktop-on-a-new-laptop-simple-setup-and-transfer-steps</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/reinstall-h-r-block-tax-software-access-your-existing-purchase-without-repurchasing</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/download-quicken-already-purchased-installer-steps-for-windows-users</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/h-r-block-software-already-purchased-how-to-download-and-install-it-again</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/transfer-quicken-to-a-new-computer-what-you-need-to-know-before-switching</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/h-r-block-2025-download-problems-fix-reinstallation-and-activation-errors</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/how-to-resolve-quicken-download-errors-on-windows-10-installation-fixes</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/h-r-block-activation-code-error-troubleshoot-issues-with-purchased-software</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/fix-quicken-reinstallation-errors-on-a-new-computer-common-causes-and-solutions</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/activate-hrblock-com-not-working-fix-h-r-block-software-activation-problems</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/troubleshoot-quicken-already-purchased-download-issues-fix-installation-problems</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/h-r-block-installation-failed-troubleshoot-reinstall-issues-after-a-system-reset</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/how-to-fix-quicken-download-and-install-errors-simple-troubleshooting-tips</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/h-r-block-download-error-how-to-fix-software-already-purchased-not-showing-up</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/why-is-quicken-not-installing-on-my-new-computer-errors-and-how-to-fix-them</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/how-to-enter-your-h-r-block-activation-code-and-complete-software-setup</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/where-can-i-access-my-quicken-account-troubleshoot-login-and-download-problems</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/what-is-activate-hrblock-com-and-how-do-you-activate-your-purchased-software</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/how-do-i-install-quicken-on-windows-11-fix-common-download-and-setup-issues</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/can-you-re-download-prior-year-h-r-block-software-and-still-access-your-files</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/what-to-do-when-quicken-download-already-purchased-shows-an-error-quick-fixes</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/how-do-i-reinstall-h-r-block-deluxe-indiana-state-tax-software-without-losing-my-purchase</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/when-should-you-reinstall-quicken-on-a-new-computer-common-signs-and-solutions</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/why-does-h-r-block-ask-you-to-repurchase-software-you-already-paid-for</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/how-do-i-download-quicken-already-purchased-easy-steps-for-a-smooth-installation</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/where-can-you-find-your-h-r-block-software-already-purchased-and-download-it-again</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/reinstalling-and-patching-quicken-desktop-getting-your-software-ready-on-a-new-laptop</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/what-to-do-when-h-r-block-download-already-purchased-is-not-working</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/transfer-quicken-business-and-personal-to-a-new-computer-keep-your-financial-data-intact</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/when-should-you-reinstall-h-r-block-tax-software-after-a-system-reset</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/quicken-starter-download-already-purchased-installing-it-on-your-new-pc</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/how-to-download-h-r-block-software-already-purchased-without-paying-again</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/quicken-download-and-install-problems-how-to-resolve-failed-downloads-and-setup-errors</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/enter-h-r-block-activation-code-correctly</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/quicken-reinstall-errors-on-windows-10-and-11-troubleshooting-common-installation-issues</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/download-h-r-block-already-purchased-retrieval</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/having-trouble-installing-quicken-on-a-new-computer-try-these-simple-fixes</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/download-h-r-block-software-already-purchased-safely</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/quicken-download-already-purchased-not-working-common-errors-and-how-to-fix-them</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/h-r-block-free-federal-e-files-benefits</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/what-is-the-easiest-way-to-download-quicken-to-this-computer-and-complete-the-installation</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/install-h-r-block-software-successfully</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/how-do-i-transfer-quicken-to-a-new-computer-without-starting-from-scratch</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/h-r-block-desktop-software-download-procedure</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/why-is-quicken-not-installing-on-my-new-computer-and-how-can-i-get-it-working</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/h-r-block-tax-software-download-options</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/where-can-i-find-the-quicken-download-already-purchased-for-my-windows-pc</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/can-i-re-download-prior-year-h-r-block-software-availability</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/when-should-i-reinstall-quicken-on-a-new-computer-and-how-do-i-transfer-my-files</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/do-i-need-to-re-download-h-r-block-deluxe-state-necessity</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/what-should-i-do-to-install-quicken-on-windows-11-without-losing-my-existing-data</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/how-do-i-reinstall-h-r-block-deluxe-indiana-state-tax-software-recovery</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/how-can-i-access-my-quicken-account-to-download-the-software-again</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
     <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/how-do-i-download-h-r-block-instructions</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/activate-hrblock-com-hrh2025-edition</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/activate-hrblock-com-access</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/activate-h-r-block-software-process</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-
-    <url>
-        <loc>https://hrblockknowledgefrequent.zohodesk.com/portal/en/kb/articles/h-r-block-2025-download-steps</loc>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <loc>https://quickenpursuitknowledge.zohodesk.com/portal/en/kb/articles/how-do-i-download-quicken-already-purchased-and-install-it-on-a-new-computer</loc>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
     </url>
 
 </urlset>
